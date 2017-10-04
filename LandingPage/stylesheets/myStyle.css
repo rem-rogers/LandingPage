@@ -1,0 +1,36 @@
+.navBar
+{
+
+}
+
+.resumeTop
+{
+  background-color: CornflowerBlue;
+  font-family: "Lucida Console", Monaco, monospace;
+
+}
+
+.container
+{
+  display: flex;
+}
+
+.item
+{
+  flex-direction: column;
+}
+
+.header
+{
+  font-family: "Lucida Console", Monaco, monospace;
+  background-color: CornflowerBlue;
+  align-items: center;
+}
+
+.navFont
+{
+  font-family: "Lucida Console", Monaco, monospace;
+
+}
+
+.pictureIndex
